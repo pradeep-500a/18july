@@ -1,5 +1,5 @@
 # Installing nginx
-sudo apy update
+sudo apt update
 sudo install nginx
 #status checking
 systemctl status nginx
